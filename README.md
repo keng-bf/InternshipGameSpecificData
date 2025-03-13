@@ -1,4 +1,4 @@
-# InternshipGameSpecificData# 
+# InternshipGameSpecificData
 How 2 Install
 1. [Compile](https://github.com/UnderminersTeam/UndertaleModTool/blob/underanalyzer/README.md#compilation-instructions) the latest commit of UndertaleModTool from the `underanalyzer` branch.
 2. In the folder containing the EXE, navigate to `GameSpecificData/Underanalyzer`.
