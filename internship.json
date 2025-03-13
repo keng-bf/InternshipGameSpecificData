@@ -1,0 +1,16 @@
+{
+  "Types": {
+    "Enums": {},
+    "Constants": {},
+    "General": {}
+  },
+  "GlobalNames": {
+    "Variables": {
+      "rm": "Asset.Room",
+      "mus": "Asset.Sound"
+    },
+    "FunctionArguments": {},
+    "FunctionReturn": {}
+  },
+  "CodeEntryNames": {}
+}
