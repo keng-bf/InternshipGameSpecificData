@@ -8,6 +8,7 @@
     "Variables": {
       "rm": "Asset.Room",
       "mus": "Asset.Sound"
+      "obj": "Asset.Object"
     },
     "FunctionArguments": {},
     "FunctionReturn": {}
