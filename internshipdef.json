@@ -3,7 +3,7 @@
   "Conditions": [
     {
       "ConditionKind": "DisplayName.Regex",
-      "Value": "Internship_july1"
+      "Value": "(?i)^Internship"
     }
   ],
   "UnderanalyzerFilename": "internship.json"
